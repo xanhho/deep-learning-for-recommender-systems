@@ -15,4 +15,12 @@ Deep Learning for Recommender Systems
 
 2. Recurrent Neural Network (RNN) model
 
+// Solely on Deep learning:
+- Parallel recurrent neural network architectures for feature-rich session-based recommendations. https://dl.acm.org/citation.cfm?id=2959167, RecSys 2016.
+- Personal recommendation using deep recurrent neural networks in NetEase. http://dblp2.uni-trier.de/rec/html/conf/icde/WuRYCZZ16, ICDE 2016.
+- A Deep Architecture for Content-based Recommendations Exploiting Recurrent Neural Networks. https://dl.acm.org/citation.cfm?id=3079684, UMAP 2017.
+- Recurrent recommender networks. https://dl.acm.org/citation.cfm?id=3018689, WSDM 2017.
 
+// Integrate Deep Learning with Traditional Recommender System:
+- Modelling Contextual Information in Session-Aware Recommender Systems with Neural Networks. https://dl.acm.org/citation.cfm?id=2959162, RecSys 2016. 
+- Embedding-based News Recommendation for Millions of Users. https://dl.acm.org/citation.cfm?id=3098108, KDD 2017.
