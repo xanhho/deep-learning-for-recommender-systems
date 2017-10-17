@@ -40,3 +40,8 @@ Deep Learning for Recommender Systems
 - Joint Deep Modeling of Users and Items Using Reviews for Recommendation. https://dl.acm.org/citation.cfm?id=3018665, WSDM 2017.
 - DeepStyle: Learning User Preferences for Visual Recommendation. https://dl.acm.org/citation.cfm?id=3080658, SIGIR 2017.
 
+4. Deep composite models
+
+// CNN and Autoencoder 
+- Collaborative knowledge base embedding for recommender systems. https://dl.acm.org/citation.cfm?id=2939673, KDD 2016.
+
