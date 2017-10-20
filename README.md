@@ -45,3 +45,6 @@ Deep Learning for Recommender Systems
 // CNN and Autoencoder 
 - Collaborative knowledge base embedding for recommender systems. https://dl.acm.org/citation.cfm?id=2939673, KDD 2016.
 
+5. Attention model
+- Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention. https://dl.acm.org/citation.cfm?id=3080797, SIGIR 2017.
+
